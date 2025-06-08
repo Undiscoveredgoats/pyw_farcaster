@@ -48,13 +48,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <InitializeOnAwake>k__BackingField: 1
   <ShowDebugLogs>k__BackingField: 1
-  <AutoConnectLastWallet>k__BackingField: 0
-  <SupportedChains>k__BackingField: b84d010000000000
+  <AutoConnectLastWallet>k__BackingField: 1
+  <SupportedChains>k__BackingField: 344a010000000000
   <IncludedWalletIds>k__BackingField: []
   <RedirectPageHtmlOverride>k__BackingField: 
   <RpcOverrides>k__BackingField: []
   <ClientId>k__BackingField: eb5c47d8f805d790f4299a669f507c62
-  <BundleId>k__BackingField: com.DefaultCompany.PaintersWorld
+  <BundleId>k__BackingField: com.unity.PaintersWorld
 --- !u!1001 &5352000285921552497
 PrefabInstance:
   m_ObjectHideFlags: 0

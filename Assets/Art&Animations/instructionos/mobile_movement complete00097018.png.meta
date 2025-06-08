@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: c3de37990e1bbd6479361bd486e18e81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4843799635242056123
+    second: mobile_movement complete00097018_0
+  - first:
+      213: 1959897549685469159
+    second: mobile_movement complete00097018_1
+  - first:
+      213: -3430115356394657833
+    second: mobile_movement complete00097018_2
+  - first:
+      213: 5181996293134365633
+    second: mobile_movement complete00097018_3
+  - first:
+      213: -2104205599516047767
+    second: mobile_movement complete00097018_4
+  - first:
+      213: 5536792961942698000
+    second: mobile_movement complete00097018_5
+  - first:
+      213: -2246162239542762057
+    second: mobile_movement complete00097018_6
+  - first:
+      213: -3835934188026212552
+    second: mobile_movement complete00097018_7
+  - first:
+      213: -6485476712612163782
+    second: mobile_movement complete00097018_8
+  - first:
+      213: -2263491655058705226
+    second: mobile_movement complete00097018_9
+  - first:
+      213: 2284647879640940184
+    second: mobile_movement complete00097018_10
+  - first:
+      213: 660723973133177594
+    second: mobile_movement complete00097018_11
+  - first:
+      213: 8871286657868844479
+    second: mobile_movement complete00097018_12
+  - first:
+      213: -1000835490995285843
+    second: mobile_movement complete00097018_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 215
+        width: 980
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5460b3235ed57ccb0800000000000000
+      internalID: -4843799635242056123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 804
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef292dff64f23b10800000000000000
+      internalID: 1959897549685469159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 514
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7eb73c148c560d0800000000000000
+      internalID: -3430115356394657833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 510
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33aa75c262ae740800000000000000
+      internalID: 5181996293134365633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 511
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664572e72c5cc2e0800000000000000
+      internalID: -2104205599516047767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 504
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183a7b1dd3a6dc40800000000000000
+      internalID: 5536792961942698000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 449
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b56824085704d0e0800000000000000
+      internalID: -2246162239542762057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 385
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fcbecfd2604cac0800000000000000
+      internalID: -3835934188026212552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_8
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0fa99a45fef5a0800000000000000
+      internalID: -6485476712612163782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_9
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 380
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43a2c05567690e0800000000000000
+      internalID: -2263491655058705226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 329
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ef8d65423b4bf10800000000000000
+      internalID: 2284647879640940184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 265
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af21031f3fc5b2900800000000000000
+      internalID: 660723973133177594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 208
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd4fe696342d1b70800000000000000
+      internalID: 8871286657868844479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile_movement complete00097018_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 208
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da05f907c615c12f0800000000000000
+      internalID: -1000835490995285843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mobile_movement complete00097018_0: -4843799635242056123
+      mobile_movement complete00097018_1: 1959897549685469159
+      mobile_movement complete00097018_10: 2284647879640940184
+      mobile_movement complete00097018_11: 660723973133177594
+      mobile_movement complete00097018_12: 8871286657868844479
+      mobile_movement complete00097018_13: -1000835490995285843
+      mobile_movement complete00097018_2: -3430115356394657833
+      mobile_movement complete00097018_3: 5181996293134365633
+      mobile_movement complete00097018_4: -2104205599516047767
+      mobile_movement complete00097018_5: 5536792961942698000
+      mobile_movement complete00097018_6: -2246162239542762057
+      mobile_movement complete00097018_7: -3835934188026212552
+      mobile_movement complete00097018_8: -6485476712612163782
+      mobile_movement complete00097018_9: -2263491655058705226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

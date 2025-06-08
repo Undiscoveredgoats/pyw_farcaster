@@ -149,7 +149,7 @@ public class RewardSpawner : MonoBehaviour
     [SerializeField] private float initialXInterval = 100f;  // Initial X distance between rewards
     [SerializeField] private float minXInterval = 50f;       // Minimum X interval at max difficulty
     [SerializeField] private float difficultyIncreaseRate = 0.01f; // How fast difficulty increases
-    [SerializeField] private float rewardValue = 50f;        // XP value per reward collected
+    [SerializeField] private int rewardValue = 50;        // XP value per reward collected
 
     private float currentXInterval;
     private float lastSpawnX = 0f;
@@ -262,10 +262,10 @@ public class RewardSpawner : MonoBehaviour
 
 public class Reward : MonoBehaviour
 {
-    private float xpValue;
+    private int xpValue;
     private GameManager gameManager;
 
-    public void Initialize(float value, GameManager gm)
+    public void Initialize(int value, GameManager gm)
     {
         xpValue = value;
         gameManager = gm;
