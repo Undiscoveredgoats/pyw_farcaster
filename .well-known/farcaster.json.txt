@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Painter Your World",
+    "iconUrl": "https://rasta669.github.io/PYW_host/TemplateData/favicon.ico",
+    "homeUrl": "https://rasta669.github.io/PYW_host/",
+    "screenshotUrls": ["https://rasta669.github.io/PYW_host/TemplateData/thumbnail.png"],
+    "tags": ["game", "unity"],
+    "primaryCategory": "games",
+    "splashImageUrl": "https://rasta669.github.io/PYW_host/TemplateData/splash.png"
+  }
+}
