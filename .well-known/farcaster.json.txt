@@ -1,12 +1,12 @@
 {
   "frame": {
     "version": "1",
-    "name": "Painter Your World",
-    "iconUrl": "https://rasta669.github.io/PYW_host/TemplateData/favicon.ico",
-    "homeUrl": "https://rasta669.github.io/PYW_host/",
+    "name": "Paint Your World",
+    "iconUrl": "https://github.com/Undiscoveredgoats/pyw_mobile/blob/main/docs/TemplateData/favicon.ico",
+    "homeUrl": "https://undiscoveredgoats.github.io/pyw_farcaster/",
     "screenshotUrls": ["https://rasta669.github.io/PYW_host/TemplateData/thumbnail.png"],
     "tags": ["game", "unity"],
     "primaryCategory": "games",
-    "splashImageUrl": "https://rasta669.github.io/PYW_host/TemplateData/splash.png"
+    "splashImageUrl": "https://github.com/Undiscoveredgoats/pyw_mobile/blob/main/docs/TemplateData/webgl-logo.png"
   }
 }
