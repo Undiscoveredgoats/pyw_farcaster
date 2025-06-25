@@ -3,13 +3,13 @@
     "name": "Paint Your World",
     "version": "1",
     "iconUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
-    "homeUrl": "https://pyw-farcaster.vercel.app/",
+    "homeUrl": "https://pyw-farcaster.vercel.app",
     "imageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
     "splashImageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
-    "splashBackgroundColor": "#000000",
-    "webhookUrl": "",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://pyw-farcaster.vercel.app/api/webhook",
     "subtitle": "game where players bring color and life to a dull world using brushstrokes.",
-    "description": "Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level.",
-    "primaryCategory": "games"
+    "primaryCategory": "games",
+    "description": "Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level."
   }
 }
