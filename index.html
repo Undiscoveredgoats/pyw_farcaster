@@ -10,7 +10,7 @@
     <!-- Farcaster Mini App metadata -->
     <meta property="fc:frame" content="vNext" />
     <meta property="fc:frame:image" content="https://pngimg.com/uploads/gauge/gauge_PNG20.png" />
-    <meta property="fc:frame:button:1" content="Play Game:https://pyw-farcaster.vercel.app/" />
+    <meta property="fc:frame:button:1" content="Play Game/" />
     <meta property="og:image" content="https://pngimg.com/uploads/gauge/gauge_PNG20.png" />
   </head>
   <body>
@@ -56,12 +56,6 @@
         updateBannerVisibility();
       }
 
-      // Set canvas width and height attributes and CSS styles to 200x130
-      canvas.width = 200;
-      canvas.height = 130;
-      canvas.style.width = "200px";
-      canvas.style.height = "130px";
-
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/docs.loader.js";
       var config = {
@@ -73,16 +67,17 @@
         productName: "PaintYourWorld",
         productVersion: "1.0",
         showBanner: unityShowBanner,
-        devicePixelRatio: 1,             // Disable scaling by devicePixelRatio
-        matchWebGLToCanvasSize: false,  // Prevent Unity from auto-resizing the canvas
       };
 
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
         container.className = "unity-mobile";
         canvas.className = "unity-mobile";
         unityShowBanner("WebGL builds are not supported on mobile devices.");
       } else {
-        // Canvas size already set above
+        // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+        canvas.style.width = "200px";
+        canvas.style.height = "130px";
       }
 
       loadingBar.style.display = "block";
