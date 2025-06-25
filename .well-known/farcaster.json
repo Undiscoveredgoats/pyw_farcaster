@@ -8,7 +8,7 @@
     "splashImageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
     "splashBackgroundColor": "#6200EA",
     "webhookUrl": "https://pyw-farcaster.vercel.app/api/webhook",
-    "subtitle": "game where players bring color and life to a dull world using brushstrokes.",
+    "subtitle": "Create your own path using paint.",
     "primaryCategory": "games",
     "description": "Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level."
   },
