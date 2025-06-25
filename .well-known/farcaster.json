@@ -11,5 +11,10 @@
     "subtitle": "game where players bring color and life to a dull world using brushstrokes.",
     "primaryCategory": "games",
     "description": "Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level."
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjg2NDk4MCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEFiNDBjRERiZjJGMDBFNDYwOTRCQzhFZmNlMWEwMEQzZEJhYTE3MTQifQ",
+    "payload": "eyJkb21haW4iOiJweXctZmFyY2FzdGVyLnZlcmNlbC5hcHAifQ",
+    "signature": "MHgwNGM1ZGM2YWUzNGZmMjY2NjhmZWExMzE2ZGYyZDVmZTE0OGFlNTgzY2Q5NzljNjk1YzZjMjg4MjlkOTNjNTk1MGJhZmM3OWViMGFhOWM5NGZiNWJjYjZmMmI2OWI0ZjU1YzA1MWJjODgyYmZiZjcxOGU0YTY0MDg3MWVjMzZhZDFi"
   }
 }
