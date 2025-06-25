@@ -3,10 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes" />More actions
     <title>Unity WebGL Player | PaintYourWorld</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
     <link rel="stylesheet" href="TemplateData/style.css" />
+    
     <!-- Farcaster Mini App metadata -->
     <meta property="fc:frame" content="vNext" />
     <meta property="fc:frame:image" content="" />
@@ -83,7 +84,18 @@
       var config = {
         dataUrl: buildUrl + "/docs.data",
         frameworkUrl: buildUrl + "/docs.framework.js",
-@@ -76,42 +98,42 @@
+        codeUrl: buildUrl + "/docs.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "UG",
+        productName: "PaintYourWorld",
+        productVersion: "1.0",
+        showBanner: unityShowBanner,
+      };
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+        container.className = "unity-mobile";
+        canvas.className = "unity-mobile";
         unityShowBanner("WebGL builds are not supported on mobile devices.");
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
