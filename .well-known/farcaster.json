@@ -2,12 +2,12 @@
   "frame": {
     "name": "Paint Your World",
     "version": "1",
-    "iconUrl": "https://https://undiscoveredgoats.github.io/pyw_farcaster/icon.png",
-    "homeUrl": "https://https://undiscoveredgoats.github.io/pyw_farcaster",
-    "imageUrl": "https://https://undiscoveredgoats.github.io/pyw_farcaster/image.png",
-    "splashImageUrl": "https://https://undiscoveredgoats.github.io/pyw_farcaster/splash.png",
+    "iconUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
+    "homeUrl": "https://pyw-farcaster.vercel.app/",
+    "imageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
+    "splashImageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
     "splashBackgroundColor": "#000000",
-    "webhookUrl": "https://https://undiscoveredgoats.github.io/pyw_farcaster/api/webhook",
+    "webhookUrl": "",
     "subtitle": "game where players bring color and life to a dull world using brushstrokes.",
     "description": "Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level.",
     "primaryCategory": "games"
