@@ -5,7 +5,7 @@
     "iconUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
     "homeUrl": "https://pyw-farcaster.vercel.app",
     "imageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
-    "splashImageUrl": "https://pngimg.com/uploads/gauge/gauge_PNG20.png",
+    "splashImageUrl": "",
     "splashBackgroundColor": "#6200EA",
     "webhookUrl": "https://pyw-farcaster.vercel.app/api/webhook",
     "subtitle": "game where players bring color and life to a dull world using brushstrokes.",
